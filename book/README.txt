@@ -1,0 +1,1 @@
+The section book contains the latex code to create the guided version to follow to do the exercises.
